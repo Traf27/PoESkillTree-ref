@@ -1,0 +1,486 @@
+A PseudoAttribute is nested in itself or nesting depth is too high
+A build or folder with this name already exists.
+A group with that name already exists.
+A new version {0} is available!
+A tab in your default web browser has been opened containing your character's data.
+About
+About PoESkillTree
+Account name
+Add
+Additional points:
+Advanced
+All
+All leagues
+Alpha Version
+Amulet
+An error occurred during a delete operation.
+An error occurred during a save operation.
+An error occurred during the download operation.
+An error occurred while attempting to contact the PoEUrl location.
+An error occurred while attempting to contact the update location.
+An error occurred while attempting to load Skill tree from URL.
+An error occurred while attempting to load item data.
+An error occurred while attempting to load stash data.
+An error occurred while attempting to start the installation.
+An error occurred while copying to Clipboard.
+An error occurred while downloading assets.
+An update for {0} ({1}) is available!
+Are you sure?
+Ascendancy passive nodes
+Attribute
+Attribute Highlight
+Attributes
+Attributes in radius:
+Aura
+Authors
+Automated
+Automatically download missing item images
+Bandit
+Base color
+Base color:
+Belt
+Best result so far: {0} point spent
+Block
+Body Armour
+Boots
+Browse...
+Build
+Build Information
+Build is of an old version and can't be imported
+Build name
+Build note
+Build save path
+Build summary
+Build summary (Ctrl+Q)
+Builds changed
+Cancel
+Center tree and reset zoom
+Change character class
+Change the base color of the theme defining the program's look.
+Change the color scheme of the theme defining the program's look.
+Change the current build's name and note.
+Change...
+Character name
+Charges
+Check for updates
+Check for updates available for PoESkillTree.
+Check-tag all highlighted nodes.
+Check-tag highlighted nodes
+Checking for updates
+Close
+Collapse all build folders in the saved builds panel.
+Collapse all folders
+Color scheme
+Color scheme:
+Colors:
+Compare the passive trees of the current and selected builds. Builds can be selected in the saved builds panel.
+Computation
+Configuration
+Confirmation
+Continue
+Continue installation?
+Convert to Pseudo Attributes
+Converts the attributes to pseudo attributes where possible using the defined settings.
+Copy
+Copy (export)
+Copy its contents and paste them into the field below.
+Copy the contents of that page and click 'Load stash tab from clipboard'.
+Copy the contents of that page and click 'Load stash tab list from clipboard'.
+Copy/export the current build to the clipboard as a XML string.
+Core Attributes
+Could not import a build in PoB format from the clipboard.
+Could not import build
+Could not import build file, only existing files with the extension {0} can be imported.
+Could not open Skill Tree Generator
+Craft
+Craft a new non-unique item and add it to the stash.
+Craft a new unique item and add it to the stash.
+Craft item
+Craft unique
+Crafting Window
+Create Item
+Create New Attribute Group
+Create PoEUrl of passive tree
+Create PoEUrl of passive tree (Ctrl+E)
+Create a new empty build in the root build folder.
+Create a new empty build in the same folder as the current build ({0}).
+Create a new empty folder in the root build folder.
+Create a new empty folder in the same folder as the current build ({0}).
+Creates a PoEUrl from the current passive tree URL and copies it to the clipboard.
+Critical Strike
+Cross-tag all highlighted nodes.
+Cross-tag highlighted nodes
+Ctrl + + / Shift + Left Click
+Ctrl + - / Ctrl + Left Click
+Ctrl + 1
+Ctrl + 2
+Ctrl + 3
+Ctrl + 4
+Ctrl + 5
+Ctrl + 6
+Ctrl + 7
+Ctrl + F
+Ctrl + Up/Down Arrow
+Current iteration:
+Current: 
+Curse
+Cut
+Defense
+Defensive Stats
+Delete
+Delete bookmark
+Delete bookmark and items
+Delete items
+Delete the current passive tree data and download the official data from the latest patch.
+Details
+Determines how often the generator is run. The best result from all runs is kept.
+Directory must be empty.
+Discard changes
+Discard changes?
+Discards all changes made to the current build after the last save.
+Discards all changes made to this build after the last save
+Do you want to continue?
+Do you want to discard all changes made to it since your last save?
+Do you want to download and install the new version?
+Do you want to download and install the update?
+Do you want to use it and overwrite current settings?
+Double click on an item slot
+Download & Import Stash
+Download already completed
+Download already in progress
+Download completed or still in progress
+Download live tree data
+Download still in progress
+Downloading latest version
+Downloading skill tree assets...
+Duelist
+Edit
+Edit Folder
+Edit Socketed Skills
+Edit socketed gems
+Empty not condition in attribute {0} in pseudo attribute {1}
+Enter the name of the build.
+Enter the name of the new folder.
+Enter the new name for this folder below.
+Enter the new name of the build
+Enter your realm, account name and league below and click 'Open in Browser'.
+Equipment
+Equipment:
+Equipped item's maximum number of sockets:
+Error
+Everything Else
+Exit
+Exit (Alt+F4)
+Exit the program.
+Expand all build folders in the saved builds panel.
+Expand all folders
+Failed to load build from URL.
+File
+Finding optimal Skill tree...
+Finished!
+Flask 1
+Flask 2
+Flask 3
+Flask 4
+Flask 5
+Flasks
+Form
+General
+General:
+Generating PoEUrl of Skill tree
+Gloves
+Group name
+Helmet
+Help
+Help file not found
+Highlight corresponding nodes in passive tree
+Highlight nodes by attribute
+Highlight similar nodes
+Home
+Hotkeys
+Import
+Import Character
+Import Items
+Import Items, Skills and Level
+Import Jewels
+Import Level
+Import Passive Tree
+Import Passive Tree and Jewels
+Import PoB
+Import Skills
+Import a new build from the clipboard in Path of Building's format (build code or pastebin URL) into the root folder and open it.
+Import character
+Import failed
+Import items
+Import items, skills and level
+Import jewels
+Import level
+Import passive tree and jewels
+Import passive tree, items and skills of an existing character.
+Import skills
+Import stash
+Import stash tabs of an account.
+Import tree
+Importing item and skill data
+Importing item and skill data failed:
+Importing passive tree and jewel data data
+Importing passive tree and jewel data failed:
+In case no browser has been opened, the URL was also copied to your clipboard.
+Independent Stats
+Information
+Initialization
+Initializing window...
+Initializing...
+Invalid XML file: 
+Iterations:
+Keystone
+Language
+Last updated: {0}
+League
+Learn more about the available hotkeys.
+Learn more about the program.
+Legal
+Level
+Level:
+Link to stash tab list:
+Link to stash tab:
+Links
+Load Tree
+Load as new build
+Load from tree
+Load stash tab from clipboard
+Load stash tab list from clipboard
+Loaded: 
+Loading skill tree assets...
+Local
+Main Skill:
+Main-Hand
+Marauder
+Maximum folder depth has been reached.
+Minion
+Move build up and down
+Name
+Nested PseudoAttribute {0} does not exist as top level PseudoAttribute
+New
+New Build
+New Folder
+New build
+New build next to current
+New folder next to current
+New tab added
+New tab with {0} items was added to stash.
+New top level build
+New top level build (Ctrl+N)
+New top level folder
+New top level folder (Ctrl+Shift+N)
+No
+No Pseudo Attributes loaded. Make sure {0} is not empty.
+No build has unsaved changes.
+No package downloaded
+No release found
+Node Hover Highlight
+Node Search Highlight
+Non-ascendancy passive nodes
+None
+Not Available
+Not equippable
+OK
+Off hand
+Off-Hand
+Offensive Stats
+Open
+Open build directory
+Open in Browser
+Open the Path of Exile wiki in the default web browser.
+Open the official Path of Exile website in the default web browser.
+Open the options.
+Open the passive tree generator. It creates optimized builds based on constraints.
+Options
+Other game data is retrieved using
+Panels
+Passive Tree
+Passive tree
+Passive tree generator
+Passive tree generator (Ctrl+Shift+G)
+Passive tree link
+Paste
+Paste (import)
+Paste/import a new build from the clipboard into the root build folder and open it.
+Path already exists as a directory.
+Path already exists.
+Path could not be accessed.
+Path exists and is not a directory.
+Path is too long.
+Path must not be relative.
+Path of Exile website
+Path of Exile wiki
+Pause
+Pause and then Close it at any point to keep the current solution.
+Please tag non-skilled nodes by right-clicking them.
+Popular
+Profile is private
+Pseudo Attributes
+Pseudo attribute
+Ranger
+Realm
+Redo
+Redo (Ctrl+Y)
+Redo the last passive tree action.
+Reload Pseudo Attributes from filesystem
+Reload builds from file system
+Reload saved build information from file system, e.g. after manually copying builds there.
+Remove all passive node highlights.
+Remove highlights by attribute
+Remove tags from all passive nodes.
+Replace Bandits settings
+Reset
+Reset passive tree (Ctrl+R)
+Reset preferences
+Reset settings
+Reset the passive tree. What is reset can be configured in the options.
+Resolving shortened tree address
+Restart is needed
+Retrieving characters for account
+Retrieving characters for account failed:
+Retrieving leagues for realm
+Retrieving leagues for realm failed:
+Ribbon menu elements
+Right Click
+Right Click on node
+Right Click outside of tree area
+Right click to edit
+Ring 1
+Ring 2
+Run
+Run 'Advanced' generator
+Run 'Advanced' generator (Ctrl+Shift+A)
+Run 'Tagged Nodes' generator
+Run 'Tagged Nodes' generator (Ctrl+Shift+T)
+Run the 'Advanced' generator with the current settings set in the passive tree generator window.
+Run the 'Tagged Nodes' generator with the current settings set in the passive tree generator window.
+Save
+Save all builds
+Save all builds (Ctrl+Shift+N)
+Save all changed builds.
+Save as
+Save current build
+Save current build (Ctrl+S)
+Save current build as
+Save current build as (Ctrl+Alt+S)
+Save the currently opened build as a new build.
+Save the currently opened build.
+Saved builds
+Saved builds (Ctrl+B)
+Saving new Build
+Scion
+Screenshot skilled nodes
+Search
+See the GitHub page for new versions and source code:
+See their tooltips
+Select a stash tab and click 'Open in browser' below.
+Select build directory
+Selected bandit
+Settings
+Shadow
+Shield
+Shift + Hover over node
+Shift + Right Click on node
+Show a summary of the currently opened build.
+Show a summary of the total changes to the passive tree when hovering over a node.
+Show all ascendancies
+Show all ascendancy class passive nodes instead of just your current ascendancy.
+Show the available builds in the build save path.
+Skill tree assets, item images and game data belong to
+Skill tree generator
+Skills
+Some nodes ({unknownNodes}) are unknown and have been omitted.
+Source
+Source Name
+Spell
+Stash Bookmark
+Stats gained on action
+Summary of changes
+Summary of changes (Ctrl+G)
+Tag all highlighted nodes.
+Tag highlighted nodes
+Tag nodes
+Tagged Nodes
+Tags
+Take a screenshot of the passive tree area around the skilled nodes.
+Target
+Templar
+The PoEUrl link has been copied to Clipboard.
+The Skill Tree Generator is already open
+The application is not correctly installed
+The application will be closed when download completes to proceed with the update.
+The build calculation engine used in PoESkillTree is located in a separate repository:
+The build is using an old version of the passive tree.
+The build you are loading contains information about selected bandits.
+The clipboard is empty or does not contain a build in a suitable format. Builds can only be imported as a XML string.
+The clipboard is empty or does not contain a build in a suitable format. Builds can only be imported from a build code or pastebin URL.
+The current build has no unsaved changes.
+The currently opened build can not be deleted.
+The existing skill tree data will be deleted. The data will be downloaded from the official online skill tree and is from the latest released version of the game.
+The new version of application will be installed side-by-side with earlier versions.
+The saved builds panel must be open.
+Theme
+These builds are not saved:\n
+These commands operate on the current build. For other builds and folders, use the saved builds panel's context menu.
+This build is currently opened but has unsaved changes.\n
+This will delete the build folder \"{0}\" and all its contents.\n
+This will open a page in your default Web-browser containing a list of your stash tabs.
+This will open a page in your default Web-browser containing the item data of the selected stash.
+Toggle passive node tag
+Toggle passive node tag (reversed)
+Tools
+Total Ascendancy Skill Points
+Total Passive Skill Points
+Total points:
+Totem
+Trap
+Tree + Items
+Tree comparison
+Tree only
+Undo
+Undo (Ctrl+Z)
+Undo the last passive tree action.
+Unhighlight all nodes
+Unique Crafting Window
+Unique item data and item images are retrieved from
+Unsaved Builds
+Unsupported condition type in attribute {0} in pseudo attribute {1}
+Untag All Skill Nodes
+Untag all nodes
+Updates
+Use regular expressions
+Used Ascendancy Skill Points
+Used Passive Skill Points
+Value
+Value contains a colon at an invalid position-
+Value contains invalid characters.
+Value is required.
+Value only contains white space characters.
+Version
+View
+View information about the program.
+Warning
+Warning: This is a pre-release, meaning there could be some bugs!
+Weapon
+Weapon class
+Weight
+Witch
+Yes
+You have the latest version!
+You will need to restart the program for all changes to take effect.
+Your build must use at least one node to generate a screenshot
+Zoom in
+Zoom out
+exclude Cross-tagged nodes
+include Check-tagged nodes
+lural "Best result so far: {0} points spent
+lural "{0} points
+lural "{0}, {1} points used
+no active skills
+original author
+{0} point
+{0}, {1} point used
